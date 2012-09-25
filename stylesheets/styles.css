@@ -800,6 +800,9 @@ section #title h1 {
 }
 section #title h1 img {
   vertical-align: middle;
+  height: 130px;
+  width: 130px;
+  margin-right: 20px;
 }
 section #title p {
   color: #d7cfbe;
