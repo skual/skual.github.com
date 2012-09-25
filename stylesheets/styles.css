@@ -795,16 +795,10 @@ section #title h1 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 40px;
+  background: transparent url(../images/logo.png) no-repeat top center;
+  padding-top: 122px;
   text-align: center;
   line-height: 36px;
-}
-section #title h1 img {
-  width: 300px;
-  height: 300px;
-}
-section #title h1 span {
-  display: block;
-  text-align: center;
 }
 section #title p {
   color: #d7cfbe;
